@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Accelerating the Mobile Web with AMP",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "accelerating-the-mobile-web-with-amp"
+  }
+}
