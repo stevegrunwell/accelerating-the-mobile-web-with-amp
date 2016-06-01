@@ -8,7 +8,7 @@ Mobile users are sick of heavy, bloated sites eating up their precious data plan
 ## Further Reading & Resources
 
 <dl>
-	<dt><a href="https://stevegrunwell.com/blog/amp-wordpress-getting-started/">Getting Started with AMP for WordPress</dt>
+	<dt><a href="https://stevegrunwell.com/blog/amp-wordpress-getting-started/">Getting Started with AMP for WordPress</a></dt>
 	<dd>Companion blog post on <a href="https://stevegrunwell.com">stevegrunwell.com</a>.</dd>
 	<dt><a href="http://10up.com/blog/2016/amp-google-publishers/">What Google’s Accelerated Mobile Pages (AMP) means for consumers, publishers, and the future</a></dt>
 	<dd>In-depth analysis of AMP and its implications on publishers from <a href="http://10up.com">10up</a>.</dd>
