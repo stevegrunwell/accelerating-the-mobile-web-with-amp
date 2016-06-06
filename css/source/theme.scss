@@ -80,6 +80,16 @@ section.has-light-background {
 		}
 	}
 
+	.image-sizes {
+		text-align: center;
+		dd {
+			margin-left: 0;
+			+ dt {
+				margin-top: 1em;
+			}
+		}
+	}
+
 	.slides-link {
 		display: block;
 		margin-top: 1em;
