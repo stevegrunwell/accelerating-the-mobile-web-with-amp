@@ -1,4 +1,4 @@
-<!-- .slide: data-background="resources/top-stories.png" -->
+<!-- .slide: data-background="resources/top-stories.png" data-background-position="left center" -->
 
 Note:
 
