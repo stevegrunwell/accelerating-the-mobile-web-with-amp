@@ -301,6 +301,13 @@ body {
   .slides h1 code, .slides h2 code, .slides h3 code, .slides h4 code, .slides h5 code, .slides h6 code {
     text-transform: none; }
 
+.slides .image-sizes {
+  text-align: center; }
+  .slides .image-sizes dd {
+    margin-left: 0; }
+    .slides .image-sizes dd + dt {
+      margin-top: 1em; }
+
 .slides .slides-link {
   display: block;
   margin-top: 1em;

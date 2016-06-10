@@ -3,6 +3,7 @@
 * <!-- .element: class="fragment" --> The benefits of AMP are really only apparent to publishers that use images in their media
 	* <!-- .element: class="fragment" --> Technical blogs may suffer
 * <!-- .element: class="fragment" --> Consider free stock photos, Creative Commons-licensed images, etc.
+	* <!-- .element: class="fragment" --> Be sure to read the licenses!
 
 Note:
 

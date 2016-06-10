@@ -8,9 +8,12 @@
         "the-amp-project.md",
         "what-is-amp.md",
         "benefits-for-users.md",
+        "demo.md",
         "benefits-for-publishers.md",
         "top-stories.md",
         "who-is-it-for.md",
+        "how-is-this-not-just-a-mobile-site.md",
+        "structured-data.md",
         "analytics.md",
         "analytics-providers.md",
         "advertising.md"
@@ -39,6 +42,7 @@
     [
         "gotchas.md",
         "posts-should-have-images.md",
+        "image-sizes.md",
         "black-box.md"
     ],
     "thank-you.md"
